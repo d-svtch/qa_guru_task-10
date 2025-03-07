@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Allure Reports
+.allure-results
+/allure-results/
+/tests/allure-results/
